@@ -13,16 +13,12 @@ function createNav() {
   //  <!-- Collect the nav links, forms, and other content for toggling -->
   navHtml += '  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">';
   navHtml += '    <ul class="nav navbar-nav">';
-  navHtml += '     <li> <a href="index.html#about">關於About</a> </li>';
-  navHtml += '     <li> <a href="links.html">鏈接Links</a> </li>';
-  navHtml += '      <li> <a href="index.html#contact">聯繫Contact</a> </li>';
-  navHtml += '      <li> <a href="events.html">特会Events</a> </li>';
+  navHtml += '     <li> <a href="/index.html#about">關於About</a> </li>';
+  navHtml += '     <li> <a href="/links.html">鏈接Links</a> </li>';
+  navHtml += '      <li> <a href="/index.html#contact">聯繫Contact</a> </li>';
+  navHtml += '      <li> <a href="/events/index.html">特会Events</a> </li>';
   navHtml += '    </ul>';
   navHtml += '  </div>';
-  navHtml += '  <form action="subcribe.php">';
-  navHtml += '    <input type="text" name="email" value="Email">';
-  navHtml += '    <input type="submit" value="Subcribe">';
-  navHtml += '  </form>    ';
   navHtml += '</div>';
   return navHtml;
 }
