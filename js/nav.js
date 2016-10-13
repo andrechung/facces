@@ -8,7 +8,7 @@ function createNav() {
   navHtml += '      <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span>';
   navHtml += '      <span class="icon-bar"></span> <span class="icon-bar"></span> ';
   navHtml += '    </button>';
-  navHtml += '    <a class="navbar-brand" href="index.html">歐鄰 FACCES</a>';
+  navHtml += '    <a class="navbar-brand" href="/index.html">歐鄰 FACCES</a>';
   navHtml += '  </div>';
   //  <!-- Collect the nav links, forms, and other content for toggling -->
   navHtml += '  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">';
