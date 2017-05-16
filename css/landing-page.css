@@ -21,8 +21,27 @@ h6 {
     font-weight: 700;
 }
 
+.inputs1{
+    width: 350px;
+}
+
+.padding1{
+    margin-right: 10px !important;
+}
+
+.label1 {
+    margin-top: 15px;
+}
+
+.footer1 {
+    display: inline-block;
+    width: 350px;
+    text-align: center;
+    width: 80%"
+}
+
 .topnav {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 .lead {
@@ -167,4 +186,24 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+input[type=text] {
+    padding:5px;
+    border:2px solid #ccc;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=text]:focus {
+    border-color:#333;
+}
+
+input[type=submit] {
+    padding:5px 15px;
+    background:#6666ff;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
 }
