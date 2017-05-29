@@ -28,7 +28,7 @@
 歐 洲 與 鄰 近 華 人 宣 道 會 團 契 2017年10月9-12日<br>
 Church Pastors and Leaders Forum<br>欧洲与邻近地区教牧暨领袖研讨会<br>
 Language English / 中文 </H1>
-<H4 style="text-align: center; width: 80%"> <a target="_blank" href="img/invitationletter.pdf">See the invitation Letter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="img/flyer.pdf">See the flyer</a> </H4>
+<H4 style="text-align: center; width: 80%"> <a target="_blank" href="img/invitationletter.pdf">See the invitation Letter 欢迎信</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="img/flyer.pdf">See the flyer 介绍</a> </H4>
 <article style="margin-top: 35px;text-align: center; width: 80%">
 			<H3>General information</H3>
 			Hotel Address旅館地址 : Amsterdam, the Netherlands (West) / 荷蘭阿姆斯特丹（西）<br>
@@ -65,12 +65,11 @@ Deadline for Registration截止報名日期： 2017年7月31日<br>
 				<input class='padding1' type="radio" name ="group" value="family">Family家庭
 				<input class='padding1' type="radio" name ="group" value="group">Church Group教會團隊<br>
 				<input class='padding1' type="radio" name ="duration" value="fullTime">Full Time全時間
-				<input class='padding1' type="radio" name ="duration" value="1day-stay">1-Day Stay全時間
-				<input class='padding1' type="radio" name ="duration" value="1day-nonstay">1-Day Non-stay一天住宿
-				<input class='padding1' type="radio" name ="duration" value="2day-stay">2-Days Stay一天不住宿
-				<input class='padding1' type="radio" name ="duration" value="2day-nonstay">2-Days Non-stay兩天住宿
-				<input class='padding1' type="radio" name ="duration" value="3day-stay">-3-Days Stay兩天不住宿
-				<input class='padding1' type="radio" name ="duration" value="3day-nonstay">3-Days Non-stay三天住宿<br>
+				<input class='padding1' type="radio" name ="duration" value="1day-stay">1-Day Stay一天住宿
+				<input class='padding1' type="radio" name ="duration" value="1day-nonstay">1-Day Non-stay一天不住宿
+				<input class='padding1' type="radio" name ="duration" value="2day-stay">2-Days Stay 兩天住宿
+				<input class='padding1' type="radio" name ="duration" value="2day-nonstay">2-Days Non-stay兩天不住宿
+				<input class='padding1' type="radio" name ="duration" value="3day-nonstay">3-Days Non-stay三天不住宿<br>
 			<div class='label1'>Nationality國籍：</div>
 				<input class='inputs1' type="text" name="nationality" placeholder="nationality"/><br />
 			<div class='label1'>Passport Number 護照號碼：</div>
